@@ -1,0 +1,6 @@
+{
+  "name": "Study Tracker & Manager with Gemini",
+  "description": "An all-in-one student dashboard with Pomodoro tracking, progress analytics, exam countdowns, collaborative study groups for notes and joint reviews, and AI-powered syllabus management and daily scheduling.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
